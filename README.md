@@ -1,5 +1,10 @@
 # Hello There! I'm Gustavo
-#### I'm a Full Stack Web Developer current studying at Driven Education
+
+- I'm a Full Stack Web Developer in formation current studying at Driven Education
+- I like back-end and front-end development (I don't have a favorite)
+- I'm interested in learning python
+- I like to study astronomy and quantum physics, even though most of the time, I don't understand nothing
+
 ## Tecnologies I know:
 
 ### Front-end:
@@ -26,5 +31,5 @@
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Contact me:
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<a href="https://www.linkedin.com/in/gustavo-de-brito/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoaraujo086@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-de-brito/)
