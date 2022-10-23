@@ -5,7 +5,7 @@
 - I'm interested in learning python
 - I like to study astronomy and quantum physics, even though most of the time, I don't understand nothing
 
-## Tecnologies I know:
+## Technologies I know:
 
 ### Front-end:
 
