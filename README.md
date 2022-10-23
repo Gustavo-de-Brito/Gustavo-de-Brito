@@ -1,6 +1,6 @@
 # Hello There! I'm Gustavo
 
-- I'm a Full Stack Web Developer in formation current studying at Driven Education
+- I'm a Full Stack Web Developer in formation currently studying at Driven Education
 - I like back-end and front-end development (I don't have a favorite)
 - I'm interested in learning python
 - I like to study astronomy and quantum physics, even though most of the time, I don't understand nothing
