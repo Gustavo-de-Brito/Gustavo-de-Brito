@@ -1,10 +1,10 @@
 # Hello There! I'm Gustavo
 
-- I'm a Full Stack Web Developer in formation currently studying at Driven Education
+- I'm a Full Stack Developer
 - I first met programming in my first year in college (I had just used computers for creating slide shows till then)
 - I think that programmers are like inventors, using creativity and knowledge, they build a solution that shouldn't necessarily be "right" to the letter, just solves the problem
 - I like back-end and front-end development (I don't have a favorite one)
-- I'm interested in learning python
+- I'm currently learning Java
 - I like to study astronomy and quantum physics, even though most of the time, I don't understand nothing
 
 ## Technologies I know:
